@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cb5e885-a12f-45a4-9459-d181b754c491" name="Default Changelist" comment="" />
+    <list default="true" id="9cb5e885-a12f-45a4-9459-d181b754c491" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Xfgci04ycuNHrvq7ZDhlKo39zC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,12 +31,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TestaLacos2">
+  <component name="RunManager" selected="Application.TestaBreak">
     <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programa" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaBreak" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,20 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestaWhile" />
-      <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaBreak" />
         <item itemvalue="Application.TestaLacos2" />
         <item itemvalue="Application.TestaLacos" />
         <item itemvalue="Application.Programa" />
         <item itemvalue="Application.TestaSomatoria" />
-        <item itemvalue="Application.TestaWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +91,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581442643444</updated>
-      <workItem from="1581442647735" duration="5334000" />
+      <workItem from="1581442647735" duration="5991000" />
+      <workItem from="1581524381259" duration="1437000" />
     </task>
     <servers />
   </component>
@@ -89,22 +100,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581448387931">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581525641905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581448387931" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581448387931">
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581525641905" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581525710518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581448387931" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581448387931">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581525710518" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581525710518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581448387931" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581448387931">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581525710518" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581525710518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581448387931" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581525710518" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581525710518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581525710518" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581445391001">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -121,5 +136,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581445391001" />
+    <state x="738" y="409" key="com.intellij.ide.util.TipDialog" timestamp="1581524385754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="409" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1600.87.1600.860@0.0.1920.1040" timestamp="1581524385754" />
   </component>
 </project>
